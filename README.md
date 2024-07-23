@@ -23,4 +23,4 @@ Acest proiect este destinat generării automate de oferte pentru clienți pe baz
 
    ```bash
    git clone https://github.com/username/ai-offer-generator.git
-   cd ai-offer-generator
+
