@@ -13,14 +13,18 @@ Acest proiect este destinat generării automate de oferte pentru clienți pe baz
 ## Cerințe
 
 - Python 3.6+
-- Node.js 14+
 - pip (Python package installer)
-- npm (Node package manager)
+
 
 ## Instalare
 
 1. Clonează acest repository:
 
    ```bash
-   git clone https://github.com/username/ai-offer-generator.git
+   git clone https://github.com/Mihu79/Generare-Oferte-AI.git
+
+## Utilizare
+
+   se folosește comanda python generate_offer.py in terminalul in care este și fișierul
+   
 
